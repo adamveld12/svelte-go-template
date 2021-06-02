@@ -34,6 +34,12 @@ make dev-client # starts the client
 make dev-server # starts the server
 ```
 
+When you're ready to go to production:
+
+```
+make build # output in .bin folder
+```
+
 
 ## LICENSE
 
